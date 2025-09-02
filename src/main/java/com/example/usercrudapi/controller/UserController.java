@@ -17,6 +17,9 @@ import com.example.usercrudapi.model.User;
 import com.example.usercrudapi.service.UserService;
 
 @RestController
+
+
+
 @RequestMapping("/api/users")
 public class UserController {
 
